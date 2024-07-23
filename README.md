@@ -4,3 +4,4 @@
 - owl-carousel
 - masonry-layout
 - sticky-nav
+- Maps Embed 
