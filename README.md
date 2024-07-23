@@ -1,7 +1,7 @@
 # Features 
 - Routing between pages
-- Responsive layout
-- owl-carousel
+- Responsive layout for all screen 
 - masonry-layout
-- sticky-nav
+- owl carousel lib
+- react icon lib
 - Maps Embed 
