@@ -10,14 +10,20 @@
  - Easily navigate through various sections of your website with a user-friendly sidebar, providing quick access to important pages.
 
 - **Well-Structured Routing:**
-- Built-in routing to essential pages, including:
- - **Home:** A stunning landing page to introduce your brand.
- - **Portfolio:** Showcase your best works and projects to captivate your audience.
- - **About:** Share your story, background, and artistic vision.
- - **Video Gallery:** Display your video content in an organized and appealing manner.
- - **Contact:** A contact page allowing visitors to get in touch with you easily.
- - **Blog Pages:** Engage your audience with articles and updates.
-
+ - Built-in routing to essential pages, including:
+   
+   -- **Home:** A stunning landing page to introduce your brand.
+   
+   -- **Portfolio:** Showcase your best works and projects to captivate your audience.
+   
+   -- **About:** Share your story, background, and artistic vision.
+   
+   -- **Video Gallery:** Display your video content in an organized and appealing manner.
+   
+   -- **Contact:** A contact page allowing visitors to get in touch with you easily.
+   
+   -- **Blog Pages:** Engage your audience with articles and updates.
+ 
 - **Google Maps Integration:**
  - Seamlessly import Google Maps to your contact page, making it easier for clients to locate your studio or office.
  
